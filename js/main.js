@@ -150,7 +150,7 @@
 		var timeinterval = setInterval(updateClock, 1000);
 	}
 
-	var deadline = "November 03,2022 23:59:59"//new Date(Date.parse(new Date()) + 6 * 24 * 60 * 60 * 1000);
+	var deadline = "November 13,2022 23:59:59"//new Date(Date.parse(new Date()) + 6 * 24 * 60 * 60 * 1000);
 	initializeClock('clockdiv', deadline);
 
 	/*----------------------------------------------------*/
